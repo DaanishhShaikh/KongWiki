@@ -66,8 +66,8 @@ This repository is licensed under the **GNU General Public License Version 3** (
 Clone this repository to begin exploring and building with Kong API Gateway.
 
 ```bash
-git clone https://github.com/yourusername/kong-api-gateway-knowledge-bank.git
-cd kong-api-gateway-knowledge-bank
+git clone https://github.com/DaanishhShaikh/KongWiki.git
+cd KongWiki
 ```
 
 Explore the documentation in each section and follow the provided setup guides to deploy and customize Kong API Gateway.
